@@ -11868,7 +11868,8 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 
 .resume-position-title {
   font-size: 1.125rem;
-  color: #424b90;
+  color: #2d3990;
+   /* #0303b5; */
 }
 
 .resume-timeline-item-desc-heading {
